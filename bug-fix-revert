@@ -1,17 +1,17 @@
-$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/PULL_REQUEST_NUMBER
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1
 
 {
   "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/1",
   "state": "open",
   "title": "Revert bug fix typo",
   "head": {
-    "label": "YOUR_USERNAME:bug-fix-revert",
+    "label": "Vijayr-coder:bug-fix-revert",
     "ref": "bug-fix-revert",
     "repo": {
-      "name": "YOUR_REPOSITORY_NAME",
-      "full_name": "YOUR_USERNAME/YOUR_REPOSITORY_NAME",
+      "name": "github-final-project",
+      "full_name": "Vijayr-coder/github-final-project",
       "owner": {
-        "login": "YOUR_USERNAME"
+        "login": "Vijayr-coder"
       }
     }
   },
