@@ -1,0 +1,6 @@
+$ git branch -a -v
+
+* main                      5d6e7f8 [origin/main] Merge branch 'bug-fix-typo'
+  bug-fix-typo             5d6e7f8 Fix typo in README file
+  remotes/origin/HEAD      -> origin/main
+  remotes/origin/main      5d6e7f8 Merge branch 'bug-fix-typo'
